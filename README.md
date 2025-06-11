@@ -27,6 +27,13 @@ Aplicación web creada como parte de una prueba técnica para el cargo de **Fron
 - Recharts
 - CSS personalizado
 
+- 🌐 Despliegue
+Aplicación desplegada en Vercel:
+👉 gestion-tareas-h3giiy86d-thom066s-projects.vercel.app
+
+gestion-tareas-rouge.vercel.app
+
+
 ---
 
 ## 🔧 Instalación local
