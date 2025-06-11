@@ -29,7 +29,8 @@ Aplicación web creada como parte de una prueba técnica para el cargo de **Fron
 
 ---
 
-#🌐 Despliegue
+
+🌐 Despliegue
 Aplicación desplegada en Vercel:
 👉 gestion-tareas-h3giiy86d-thom066s-projects.vercel.app
 
